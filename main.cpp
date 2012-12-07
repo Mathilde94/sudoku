@@ -27,7 +27,6 @@ public:
       FOR(j,0,N){
         grid[j][i].set=false;
         grid[j][i].current_value=0;
-        grid[j][i].index=0;
       }
     } 
   }
